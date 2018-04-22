@@ -7,6 +7,6 @@
     <script src="/js/main.js"></script>
 
     <!-- Маска ввода -->
-    <script src="/js/jquery.maskedinput.js" type="text/javascript"></script>
+    <script src="/js/jquery.maskedinput.min.js" type="text/javascript"></script>
 
 </body>  
