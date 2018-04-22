@@ -38,6 +38,9 @@ ul {
        font-family: 'OpenSansCondensedLight', sans-serif;
        color: black; 
     }
+    &__email {
+       margin-right: 10px;
+    }
 }
 
 .main-screen {
@@ -47,6 +50,8 @@ ul {
     background-repeat: no-repeat;
     background-size: cover;
     color: @colorWhite;
+    padding-left: 35px;
+    padding-right: 35px;
     &__title {
         padding-top: 20px;
     }
@@ -60,12 +65,41 @@ ul {
     }
 }
 
+// Классы бутстрап
+.modal .btn {
+    font-size: 18px;
+    width: 100%;
+    font-size: 18px;
+}
+.modal-footer,
+.modal-header {
+    border: 0;
+}
+// End. Классы бутстрап
+
+
+.thank-you {
+    &__text-content {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+}
 
 
 @media screen and (max-device-width: 991px) {
     .container-fluid {
       padding-left: 15px;
       padding-right: 15px;
+    }
+    .main-screen {
+        padding-left: 15px;
+        padding-right: 15px;
+        &__title {
+            font-size: 24px;
+        }
+        &__subtitle {
+            font-size: 18px;
+        }
     }
 }
 

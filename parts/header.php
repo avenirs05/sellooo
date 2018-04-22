@@ -10,7 +10,8 @@
         <div class="col">
             <div class="row">
                 <div class="col connects d-flex align-items-center text-right">
-                    <img class="connects__icon ml-auto" src="image/connect/whatsapp.svg" width="27" height="27" alt="">
+                    <span class="connects__email ml-auto">info@sellooo.ru</span>
+                    <img class="connects__icon" src="image/connect/whatsapp.svg" width="27" height="27" alt="">
                     <img class="connects__icon" src="image/connect/viber.png" width="25" height="25" alt="">
                     <img class="connects__icon" src="image/connect/telegram.png" width="25" height="25" alt="">
                     <img class="connects__icon" src="image/connect/phone.svg" width="20" height="25" alt="">
