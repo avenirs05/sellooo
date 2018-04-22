@@ -1,7 +1,7 @@
 $(function () {    
 
 		// Модальное окно
-		$('.main-screen__btn').click(function() { 
+		$('.main-screen__btn, .rest-questions__btn').click(function() { 
 		    $('.modal').modal('show'); 
 		});
 

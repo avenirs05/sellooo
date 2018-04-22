@@ -41,6 +41,5 @@
             <span class="connects__phone-text">+7 967 063 16 46</span>
         </div>
     </div>
-
 </div>
 

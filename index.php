@@ -8,6 +8,8 @@
 
 <?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/faq.php'; ?>
 
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/contacts.php'; ?>
+
 <?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/footer.php'; ?>
 
 

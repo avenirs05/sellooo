@@ -9,4 +9,5 @@
     <!-- Маска ввода -->
     <script src="/js/jquery.maskedinput.min.js" type="text/javascript"></script>
 
-</body>  
+</body> 
+</html> 
