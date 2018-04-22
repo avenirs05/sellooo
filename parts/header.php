@@ -15,7 +15,7 @@
                     <img class="connects__icon" src="image/connect/viber.png" width="25" height="25" alt="">
                     <img class="connects__icon" src="image/connect/telegram.png" width="25" height="25" alt="">
                     <img class="connects__icon" src="image/connect/phone.svg" width="20" height="25" alt="">
-                    <span class="connects__phone-text">+7 928 270 00 78</span>
+                    <span class="connects__phone-text">+7 967 063 16 46</span>
                 </div>
             </div>
         </div>
@@ -38,7 +38,7 @@
             <img class="connects__icon" src="image/connect/viber.png" width="25" height="25" alt="">
             <img class="connects__icon" src="image/connect/telegram.png" width="25" height="25" alt="">
             <img class="connects__icon" src="image/connect/phone.svg" width="20" height="25" alt="">
-            <span class="connects__phone-text">+7 928 270 00 78</span>
+            <span class="connects__phone-text">+7 967 063 16 46</span>
         </div>
     </div>
 

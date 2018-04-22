@@ -33,7 +33,9 @@ $message = '<html>
                     <body>
                     <strong>Тема: заявка с сайта sellooo.ru</strong><br><br><br>' .
                     '<b>Имя:</b> ' . $_POST['name'] . '<br><br>' .
-                    '<b>Телефон:</b> ' . $_POST['phone'] . '<br><br>' .  
+                    '<b>Телефон:</b> ' . $_POST['phone'] . '<br><br>' .
+                    '<b>Email:</b> ' . $_POST['email'] . '<br><br>' .
+                    '<b>Сообщение:</b> ' . $_POST['message'] . '<br><br>' .  
                     '</body>
             </html>';
 

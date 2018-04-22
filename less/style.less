@@ -44,7 +44,7 @@ ul {
 }
 
 .main-screen {
-    background-image: url("../image/main4.jpg");
+    background-image: url("../image/main.jpg");
     background-position: center;
     height: 120vh;
     background-repeat: no-repeat;
@@ -62,6 +62,7 @@ ul {
     &__btn {
         margin-top: 20px;
         font-size: 18px;
+        font-weight: bold;
     }
 }
 
@@ -70,10 +71,18 @@ ul {
     font-size: 18px;
     width: 100%;
     font-size: 18px;
+    font-weight: bold;
 }
 .modal-footer,
 .modal-header {
     border: 0;
+}
+.modal-body {
+    padding-top: 0;
+    padding-bottom: 0; 
+}
+.form-group label {
+    font-weight: bold;
 }
 // End. Классы бутстрап
 
@@ -84,7 +93,6 @@ ul {
         font-size: 18px;
     }
 }
-
 
 @media screen and (max-device-width: 991px) {
     .container-fluid {

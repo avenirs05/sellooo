@@ -12,7 +12,7 @@
     <link href="/css/style.css" rel="stylesheet">
 
     <!-- Fav -->
-    <link rel="shortcut icon" href="/image/fav.png" type="image/png">
+    <link rel="shortcut icon" href="/image/favicon.ico">
 </head>
 
 <body>
