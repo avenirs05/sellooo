@@ -1,36 +1,12 @@
-﻿<!doctype html>
-<html lang="ru">
-<head>
-    <title>Продай свое ООО</title>
+﻿<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/head.php'; ?>
 
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">		
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/header.php'; ?>
 
-    <!-- Fonts -->
-  	<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/footer.php'; ?>
 
-    <!-- Css -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-
-    <!-- Fav -->
-    <link rel="shortcut icon" href="/imgs/fav.png" type="image/png">
-</head>
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/content_top.php'; ?>
 
 
-<body>	  
-test  
-    <!-- JS libs -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>  
-    <script src="js/bootstrap.min.js"></script>
 
-    <!-- My Own Js-scripts -->
-    <script src="js/main.js"></script>
 
-    <!-- Маска ввода -->
-    <script src="js/jquery.maskedinput.js" type="text/javascript"></script>
-
-</body>  
 
