@@ -15,11 +15,11 @@
                     </div>
                     <div class="form-group">
                         <label>Телефон<span class="text-danger">*</span></label>
-                        <input type="text" class="phone-field form-control" placeholder="Введите ваше имя" name="phone" required>
+                        <input type="text" class="phone-field form-control" placeholder="Введите ваше имя" name="phone">
                     </div>
                     <div class="form-group">
                         <label>Email</label>
-                        <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Введите ваш email" name="email">
+                        <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Введите ваш email" name="email" required>
                     </div> 
                     <div class="form-group">
                         <label>Сообщение</label>
