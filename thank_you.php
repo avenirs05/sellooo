@@ -1,6 +1,6 @@
-<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/modal.php'; ?>
-
 <?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/head.php'; ?>
+
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/modal.php'; ?>
 
 <?php require_once $_SERVER['DOCUMENT_ROOT'] . '/parts/footer.php'; ?>
 
