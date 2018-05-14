@@ -13,7 +13,7 @@
                     <img class="header__btc-icon ml-auto" src="image/btc.png" width="100" alt="">
                     <span class="connects__email">info@sellooo.ru</span>
                     <img class="connects__icon connects__icon_telegram" src="image/connect/telegram.png" width="25" height="25" alt="">
-                    <span class="connects__telegram-text">@sellooo.ru</span>
+                    <span class="connects__telegram-text">@sellooo_ru</span>
                     <img class="connects__icon" src="image/connect/whatsapp.svg" width="27" height="27" alt="">                  
                     <span class="connects__phone-text">+7 967 063 16 46</span>
                 </div>
@@ -41,7 +41,7 @@
     <div class="row">
         <div class="col connects d-flex align-items-center">
             <img class="connects__icon" src="image/connect/telegram.png" width="25" height="25" alt="">
-            <span class="connects__telegram-text">@sellooo.ru</span>
+            <span class="connects__telegram-text">@sellooo_ru</span>
             <img class="header__btc-icon ml-auto" src="image/btc.png" width="80" alt="">
         </div>
     </div>

@@ -23,7 +23,7 @@
 
 $headers = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-$to = 'info@sellooo.ru, domosed365365@gmail.com';
+$to = 'info@sellooo.ru';
 $subject = "Заявка с сайта sellooo.ru";
 
 

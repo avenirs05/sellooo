@@ -15,7 +15,7 @@
                     </div>
                     <div class="form-group">
                         <label>Телефон</label>
-                        <input type="text" class="phone-field form-control" placeholder="Введите ваше имя" name="phone">
+                        <input type="text" class="phone-field form-control" placeholder="Введите номер телефона" name="phone">
                     </div>
                     <div class="form-group">
                         <label>Email<span class="text-danger">*</span></label>
